@@ -1,5 +1,5 @@
 from random import *
-import random 
+import random
 
 from data import subjects, objects, environments, famous_artists, locations, stylings, prepositions, adjectives, verbs, adverbs
 
